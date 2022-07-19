@@ -1,7 +1,7 @@
 ### Oiê! Eu Sou o James William 🤖 
 
 - 🔭 Cursando Análise e Desenvolvimento de Sistemas 2/5
-- 🌱 Estudando Front-End (HTML, CSS, JavaScript, React Js/Next JS e TypeScript)
+- 🌱 Estudando Front-End (HTML, CSS, JavaScript, React Js, Dart/Flutter)
 
 <div align="center">
   <a href="https://github.com/Jwilliam92">
