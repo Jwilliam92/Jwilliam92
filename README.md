@@ -10,7 +10,7 @@
 </div>
 
  <div align="center" style="display: inline_block"><br> 
-   <img align="center" alt="james-Dart" height="30" width="40" src="icons/dart/dart-original.svg">
+   <img align="center" alt="james-Dart" height="30" width="40" src="[icons/dart/dart-original.svg](https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/dart/dart-original-wordmark.svg)">
   <img align="center" alt="james-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="james-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="james-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
