@@ -1,7 +1,7 @@
 ### Oiê! Eu Sou o James William 🤖 
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas 4/5
-- 🌱 Estudando Mobile (Dart/Flutter, FireBase, HTML, CSS, JavaScript, React Native)
+- 🔭 Cursando Análise e Desenvolvimento de Sistemas 5/5
+- 🌱 Estudando Mobile (Dart/Flutter, Python, FireBase, HTML, CSS, JavaScript, React Native)
 
 <div align="center">
   <a href="https://github.com/Jwilliam92">
