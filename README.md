@@ -1,6 +1,6 @@
 ### Oiê! Eu Sou o James William 🤖 
 
-- 🔭 Cursando Análise e Desenvolvimento de Sistemas 5/5
+- 🔭 Analista e Desenvolvedor de Sistemas 
 - 🌱 Estudando Mobile (Dart/Flutter, Python, FireBase, HTML, CSS, JavaScript, React Native)
 
 <div align="center">
