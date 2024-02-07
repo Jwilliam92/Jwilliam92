@@ -1,7 +1,8 @@
 ### Oiê! Eu Sou o James William 🤖 
 
-- 🔭 Analista e Desenvolvedor de Sistemas 
-- 🌱 Estudando Mobile (Dart/Flutter, Python, FireBase, HTML, CSS, JavaScript, React Native)
+- 🔭 Analista e Desenvolvedor de Sistemas
+- 🎓 Pós Graduação em Data Science ...⌛
+- 🚀  (Python, Dart/Flutter, Python, SQL, HTML, CSS, JavaScript)
 
 <div align="center">
   <a href="https://github.com/Jwilliam92">
@@ -15,9 +16,7 @@
    <img align="center" alt="james-Dart" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
   <img align="center" alt="james-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="james-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="james-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-   <img align="center" alt="james-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   
+   <img align="center" alt="james-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
    
 </div>
   
