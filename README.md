@@ -2,7 +2,7 @@
 
 - 🔭 Analista e Desenvolvedor de Sistemas
 - 🎓 Pós Graduação em Data Science ...⌛
-- 🚀  (Python, Dart/Flutter, Python, SQL, HTML, CSS, JavaScript)
+- 🚀  (Python, Dart/Flutter, SQL, OpenCv HTML, CSS, JavaScript)
 
 <div align="center">
   <a href="https://github.com/Jwilliam92">
@@ -13,7 +13,7 @@
  <div align="center" style="display: inline_block"><br> 
    <img align="center" alt="james-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
    <img align="center" alt="james-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
-   <img align="center" alt="james-Dart" height="30" width="40" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg">
+   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="center" alt="james-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="james-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="james-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
