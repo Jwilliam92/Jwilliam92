@@ -1,7 +1,7 @@
 ### Oiê! Eu Sou o James William 🤖 
 
 - 🔭 Analista e Desenvolvedor de Sistemas
-- 🎓 Pós Graduação em Data Science ...⌛
+- 🎓 Pós Graduado em Data Science 
 - 🚀  (Python, Dart/Flutter, SQL, OpenCv, TensorFlow, HTML, CSS, JavaScript)
 
 <div align="center">
